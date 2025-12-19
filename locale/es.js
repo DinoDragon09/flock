@@ -11,7 +11,7 @@ export default {
   CATEGORY_CONNECT: "Conectar",
   CATEGORY_COMBINE: "Combinar",
   CATEGORY_ANIMATE: "Animar",
-  CATEGORY_KEYFRAME: "Fotograma clave",
+  CATEGORY_KEYFRAME: "Fotograma Clave",
   CATEGORY_CONTROL: "Control",
   CATEGORY_CONDITION: "Condición",
   CATEGORY_SENSING: "Sensores",

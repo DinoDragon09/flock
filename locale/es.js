@@ -1089,5 +1089,5 @@ export default {
   colour_random: "color aleatorio",
   colour_blend: "mezclar %1 y %2 en %3",
 
-  dark_contrast_theme_ui: "Oscuro",
+  dark_contrast_theme_ui: "Oscuro 2",
 };

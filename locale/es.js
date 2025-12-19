@@ -206,7 +206,7 @@ export default {
 
   // Custom block translation - Events blocks
   start: "iniciar",
-  forever: "siempre\n%1",
+  forever: "para siempre\n%1",
   when_clicked: "cuando %1 %2",
   on_collision: "cuando %1 choque %2 %3",
   when_key_event: "cuando tecla %1 %2",
